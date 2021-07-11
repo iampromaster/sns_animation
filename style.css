@@ -47,7 +47,6 @@ h1{
   z-index: 10;
   transition: color 0.5s;
 }
-
 .social-links a::after {
   content: '';
   width: 100%;
